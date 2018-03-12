@@ -1,0 +1,5 @@
+opusscript ytdl-core
+discord.js
+ffmpeg
+ffmpeg-binaries
+simple-youtube-api
